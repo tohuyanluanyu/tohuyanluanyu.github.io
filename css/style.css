@@ -1,0 +1,18 @@
+/*通用开始*/
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: 0;
+}
+body{
+	background:url(../img/7.jpg) ; 
+}
+/*通用结束*/
